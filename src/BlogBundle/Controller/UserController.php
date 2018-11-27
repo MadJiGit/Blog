@@ -1,5 +1,8 @@
 <?php
 
+// this comment is only for github commit test
+// end here
+
 namespace BlogBundle\Controller;
 
 use BlogBundle\Entity\Role;
@@ -58,3 +61,4 @@ class UserController extends Controller
 	}
 
 }
+
